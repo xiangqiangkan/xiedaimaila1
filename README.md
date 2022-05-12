@@ -1,2 +1,1 @@
-# xiedaimaila1
-yanliang的实例实现
+## 爬虫多线程
